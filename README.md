@@ -16,5 +16,5 @@ As it is a numerical data, I have used Linear Regression in this model selection
 R2_score is 77.8 percent which tells that it's a best fit model.
 The total process involves 3 simple steps: 1) cleaning the data 2) exploring the data(EDA) 3)suitable model deployment
 
-r2_score and Mean squared error will only be calculated in the linear regression for finding that model is performing well or not.
+R2_score and Mean squared error will only be calculated in the linear regression for finding that model is performing well or not.
 For categorical output, we will be using accuracy_score, precision, recall, AUCROC to find how better the model is performing.
